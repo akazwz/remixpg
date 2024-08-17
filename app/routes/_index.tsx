@@ -78,7 +78,7 @@ export default function Index() {
           <ListTodoIcon className="size-7" />
         </Link>
         <div className="flex-1" />
-        <Link to="/" target="_blank">
+        <Link to="https://github.com/akazwz/remixpg" target="_blank">
           <GitHubLogoIcon className="size-6" />
         </Link>
       </header>
