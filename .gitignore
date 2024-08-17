@@ -1,0 +1,10 @@
+node_modules
+
+/.cache
+/build
+.env
+.idea
+.vscode
+.wrangler
+wrangler
+worker-configuration.d.ts
